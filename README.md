@@ -1,2 +1,2 @@
 # Demo-Repository
-demo repository for git tutorial
+Demo Repository for Git Tutorial.
